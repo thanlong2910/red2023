@@ -1,7 +1,15 @@
 Microsoft Windows [Version 10.0.22621.2861]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\Admin\Desktop\RedTeam-2023\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0>cmd /k input
+C:\Users\Admin\Desktop\RedTeam-2023\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0>cmd /k net user
+
+User accounts for \\DESKTOP-98FHC0J
+
+-------------------------------------------------------------------------------
+Admin                    Administrator            DefaultAccount           
+Guest                    WDAGUtilityAccount       
+The command completed successfully.
+
 
 C:\Users\Admin\Desktop\RedTeam-2023\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0>
 C:\Users\Admin\Desktop\RedTeam-2023\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0>
